@@ -100,9 +100,7 @@ Performed Exploratory Data Analysis using Python, Pandas, and Matplotlib.
 
 ---
 
-<div align="center">
-  💡 <i>"Code. Learn. Build. Repeat."</i>
-</div>
+
 
 ## 🌱 Currently Learning
 
