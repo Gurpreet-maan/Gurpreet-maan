@@ -26,19 +26,15 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=c++,python,c,java,html,css,sql,mysql" />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=sklearn" />
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn" />
 </p>
 
-- NumPy
-- Pandas
-- Matplotlib
-- Streamlit
 
 ### Tools & Technologies
 
