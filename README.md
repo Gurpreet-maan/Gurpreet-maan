@@ -26,14 +26,28 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c++,python,c,java,html,css,sql,mysql" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,mysql" />
 </p>
 
-### Frameworks & Libraries
 
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn" />
+## 📚 Libraries & Frameworks
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
 </p>
+
 
 
 ### Tools & Technologies
@@ -73,6 +87,18 @@ Java-based banking application demonstrating Object-Oriented Programming concept
 Performed Exploratory Data Analysis using Python, Pandas, and Matplotlib.
 
 ---
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gurpreet-maan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpreet-maan&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gurpreet-maan&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gurpreet-maan&theme=tokyonight" />
+</p>
 
 ## 🌱 Currently Learning
 
