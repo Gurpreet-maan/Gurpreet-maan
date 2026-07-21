@@ -91,7 +91,6 @@ Java-based banking application demonstrating core Object-Oriented Programming pr
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gurpreet-maan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurpreet-maan&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -99,9 +98,7 @@ Java-based banking application demonstrating core Object-Oriented Programming pr
   <img src="https://leetcard.jacoblin.cool/gurpreet_m04?theme=dark&font=Fira%20Code&ext=heatmap" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gurpreet-maan&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gurpreet-maan&theme=tokyo-night&hide_border=true" width="90%" />
@@ -115,7 +112,7 @@ Java-based banking application demonstrating core Object-Oriented Programming pr
   <img src="https://raw.githubusercontent.com/Gurpreet-maan/Gurpreet-maan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-> Set-up note: this needs a one-time GitHub Action in your profile repo. See the "How to enable" note at the end of this file.
+
 
 ---
 
