@@ -1,5 +1,8 @@
-<h1 align="center">Hi there, I'm Gurpreet Maan </h1>
-<h3 align="center">B.Tech CSE Student • Aspiring ML Engineer • Software Developer</h3>
+<h1 align="center">Hi there, I'm Gurpreet Maan 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Aspiring+ML+Engineer;Software+Developer;Turning+logic+into+clean+code" alt="Typing SVG" />
+</p>
 
 <p align="center">
   Building practical, data-driven software and exploring how machine learning solves real-world problems.
@@ -9,15 +12,21 @@
   <a href="https://www.linkedin.com/in/gurpreet-maan-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:deepanshumaan31@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/gurpreet_m04" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gurpreet-maan&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
 ### 🧭 About Me
-
 - 🎓 Third-Year B.Tech CSE student at Maharishi Markandeshwar University — CGPA 8.5
 - 💻 Focused on Machine Learning, Data Structures & Algorithms, and Backend Development
 - 🧠 Completed an ML/Data Science internship at **SkillCraft Technology**, building predictive models and analytics dashboards
@@ -53,7 +62,6 @@
 ---
 
 ### 📚 Core Computer Science Foundations
-
 `Data Structures & Algorithms` · `Object-Oriented Programming` · `Database Management Systems` · `Operating Systems` · `Computer Networks` · `Software Engineering`
 
 ---
@@ -74,31 +82,49 @@ NLP-based tool that scores and ranks resumes against job descriptions using spaC
 **🏦 Bank Management System**
 Java-based banking application demonstrating core Object-Oriented Programming principles.
 
-*(Replace the `#` links above with your actual GitHub repo URLs.)*
-
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub & Coding Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gurpreet-maan&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Gurpreet-maan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurpreet-maan&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gurpreet-maan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurpreet-maan&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/gurpreet_m04?theme=dark&font=Fira%20Code&ext=heatmap" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gurpreet-maan&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gurpreet-maan&theme=tokyo-night&hide_border=true" width="90%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gurpreet-maan/Gurpreet-maan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+> Set-up note: this needs a one-time GitHub Action in your profile repo. See the "How to enable" note at the end of this file.
 
 ---
 
 ### 🌱 Currently Learning
-
 Advanced DSA · Machine Learning · Backend Development · System Design · Cloud Computing
 
 ---
 
 ### 🎯 2026 Goals
-
 - [x] Strengthen DSA and problem-solving skills
 - [x] Build impactful full-stack and ML projects
 - [x] Contribute to Open Source
