@@ -68,10 +68,10 @@
 
 ### 🚀 Featured Projects
 
-**🚗 [Car Price Predictor](#)**
+**🚗 Car Price Predictor**
 ML web app that predicts used car prices using an XGBoost regression model achieving 96% R², deployed with a Streamlit interface. Delivered as a complete, self-contained codebase.
 
-**📄 [AI Resume Screener](#)**
+**📄 AI Resume Screener**
 NLP-based tool that scores and ranks resumes against job descriptions using spaCy, TF-IDF, and cosine similarity, with a Streamlit front end.
 
 **📊 SkillCraft Technology Internship Projects**
@@ -85,15 +85,6 @@ Java-based banking application demonstrating core Object-Oriented Programming pr
 ---
 
 ### 📊 GitHub & Coding Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gurpreet-maan&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurpreet-maan&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/gurpreet_m04?theme=dark&font=Fira%20Code&ext=heatmap" width="60%" />
 </p>
