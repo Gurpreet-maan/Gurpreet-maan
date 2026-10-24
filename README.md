@@ -1,22 +1,25 @@
-<h1 align="center">Hi there, I'm Gurpreet Maan 👋</h1>
+<h1 align="center">Hi, I'm Gurpreet Maan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Aspiring+ML+Engineer;Software+Developer;Turning+logic+into+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Aspiring+ML+Engineer;Software+Developer;Building+with+ML+%26+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Building practical, data-driven software and exploring how machine learning solves real-world problems.
+  Building practical ML systems, GenAI applications, and scalable software.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gurpreet-maan-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:deepanshumaan31@gmail.com">
+  <a href="mailto:gurpreetmaan2207@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/gurpreet_m04" target="_blank">
+  <a href="https://leetcode.com/u/gurpreet_m04/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/Gurpreet-maan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -26,29 +29,30 @@
 
 ---
 
-### 🧭 About Me
-- 🎓 Third-Year B.Tech CSE student at Maharishi Markandeshwar University — CGPA 8.5
-- 💻 Focused on Machine Learning, Data Structures & Algorithms, and Backend Development
-- 🧠 Completed an ML/Data Science internship at **SkillCraft Technology**, building predictive models and analytics dashboards
-- 🎯 Currently preparing for campus placements and pursuing ML Engineer roles after graduation
-- 📍 Based in Bilaspur, Yamunanagar, Haryana, India
+### About Me
+
+- Third-year B.Tech CSE student at Maharishi Markandeshwar University (CGPA 8.5)
+- Focused on Machine Learning, Generative AI, Data Structures & Algorithms, and System Design
+- Built end-to-end projects spanning RAG systems, ML prediction engines, and low-level network systems
+- Completed an ML internship at **SkillCraft Technology** (predictive modeling & analytics)
+- Based in Bilaspur, Yamunanagar, Haryana, India
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,html,css,mysql" />
 </p>
 
-**Libraries & Frameworks**
+**Machine Learning & GenAI**
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-0E76A8?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
@@ -61,66 +65,50 @@
 
 ---
 
-### 📚 Core Computer Science Foundations
-`Data Structures & Algorithms` · `Object-Oriented Programming` · `Database Management Systems` · `Operating Systems` · `Computer Networks` · `Software Engineering`
+### Core Computer Science Foundations
+
+`Data Structures & Algorithms` · `System Design` · `Object-Oriented Programming` · `Database Management Systems` · `Operating Systems` · `Computer Networks` · `Software Engineering`
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-**🚗 Car Price Predictor**
-ML web app that predicts used car prices using an XGBoost regression model achieving 96% R², deployed with a Streamlit interface. Delivered as a complete, self-contained codebase.
+**BookMind AI – RAG Document QA System**  
+`Python · LangChain · ChromaDB · Streamlit`  
+End-to-end Retrieval-Augmented Generation system that lets users upload PDF books and ask grounded questions. Implements PDF loading, recursive chunking, HuggingFace embeddings, Chroma vector store with MMR retrieval, and context-aware generation with page-level citations.
 
-**📄 AI Resume Screener**
-NLP-based tool that scores and ranks resumes against job descriptions using spaCy, TF-IDF, and cosine similarity, with a Streamlit front end.
+**Car Price Prediction Engine**  
+`Python · XGBoost · Streamlit`  
+ML regression model that predicts used car prices with **96% R²**, capturing non-linear pricing patterns. Deployed as a real-time Streamlit web application.
 
-**📊 SkillCraft Technology Internship Projects**
-- House price predictor built with linear regression on a Kaggle housing dataset
-- Interactive predictive analytics dashboard
-- Data cleaning and automated reporting dashboard
-
-**🏦 Bank Management System**
-Java-based banking application demonstrating core Object-Oriented Programming principles.
+**DPI Engine – Deep Packet Inspection System**  
+`C++ · Multithreading · Networking`  
+Deep packet inspection system that parses PCAP captures, reconstructs network flows, and classifies traffic by application. Includes TLS Client Hello / SNI extraction and a multi-threaded pipeline with consistent hashing for scalable processing.
 
 ---
 
-### 📊 GitHub & Coding Analytics
+### GitHub & Coding Analytics
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/gurpreet_m04?theme=dark&font=Fira%20Code&ext=heatmap" width="60%" />
+  <img src="https://leetcard.jacoblin.cool/gurpreet_m04?theme=dark&font=Fira%20Code&ext=heatmap" width="55%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gurpreet-maan&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurpreet-maan&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gurpreet-maan&theme=tokyo-night&hide_border=true" width="90%" />
-</p>
-
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gurpreet-maan/Gurpreet-maan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-
-
----
-
-### 🌱 Currently Learning
-Advanced DSA · Machine Learning · Backend Development · System Design · Cloud Computing
-
----
-
-### 🎯 2026 Goals
-- [x] Strengthen DSA and problem-solving skills
-- [x] Build impactful full-stack and ML projects
-- [x] Contribute to Open Source
-- [ ] Secure a Software Development / ML internship
-- [ ] Deepen expertise in applied ML
-
 ---
 
 <p align="center">
-  💡 <i>"Code. Learn. Build. Repeat."</i>
+  <i>"Code. Learn. Build. Repeat."</i>
 </p>
