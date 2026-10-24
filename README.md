@@ -43,7 +43,7 @@
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,mysql" />
 </p>
 
 **Machine Learning & GenAI**
