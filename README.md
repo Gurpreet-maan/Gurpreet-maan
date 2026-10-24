@@ -93,10 +93,6 @@ Deep packet inspection system that parses PCAP captures, reconstructs network fl
   <img src="https://leetcard.jacoblin.cool/gurpreet_m04?theme=dark&font=Fira%20Code&ext=heatmap" width="55%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gurpreet-maan&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurpreet-maan&theme=tokyonight&hide_border=true" height="160" />
-</p>
 
 
 ---
